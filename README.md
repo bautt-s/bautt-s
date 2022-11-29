@@ -9,7 +9,7 @@
 
 ##  Hard Skills 📚
 
-I’ve exposed myself to a wide variety of languages such as `Java, Python, SQL and JavaScript`. This way, I can read almost any code I see and _understand what is happening_.
+I have exposed myself to a wide variety of languages such as `Java, Python, SQL and JavaScript`. This way, I can read almost any code I see and truly _understand what is happening_.
 
 I would be prone to say that my **analytical thinking**, my **pattern recognition skills** and my **algorithmic-based reasoning** are very useful when I have the need to learn and/or adapt to a new programming environment.
 
