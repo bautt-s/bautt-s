@@ -49,11 +49,9 @@ Specifically, I know:
 
 ##  Soft skills 🥳
 
-I would describe myself as a very extroverted person, never afraid of speaking up when something goes wrong, and with high communicative skills, willing to step up to any challenge there is.
+I would describe myself as a very extroverted person, never afraid of speaking up when something goes wrong, and with high communicative skills, willing to step up to any challenge that may arise.
 
-Many people I've worked with say I'm a born leader who is also able to listen to others' opinion and experience - and I agree.
-
-I'm really great at explaining complex matters in the simplest way so even people who might not be remotely close to my area of expertise are able to understand what I'm talking about (e.g., parents, friends, coaches). You could say I adapt quickly to my environment.
+I am really great at explaining complex matters in the simplest way so even people who might not be remotely close to my area of expertise are able to understand what I am talking about (e.g., parents, friends, coaches). You could say I adapt quickly to my environment.
 
 ##  Some stats 📊
 
