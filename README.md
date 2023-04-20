@@ -59,11 +59,6 @@ I am really great at explaining complex matters in the simplest way so even peop
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bautt-s&layout=compact)
 
-##  Some projects 🛠️
-
-- Do you want to see fully-working code I wrote? Check out my most recent app [here](https://github.com/bautt-s/PI-dogs-henry)
-
-- I'm also currently contributing to the development of [this group project](https://github.com/bautt-s/PF-Henry-Grupo05)
 
 ##  Interests 👀
 
