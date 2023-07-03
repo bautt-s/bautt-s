@@ -1,7 +1,7 @@
 
 #  I am Bautista Sánchez 🥳
 
-![image](https://github.com/bautt-s/bautt-s/assets/109627713/6e0c2b22-ab6f-409a-aad6-74cdaec7cf23)
+![image](https://github.com/bautt-s/bautt-s/assets/109627713/f57135a8-712a-44c6-807c-f8482674358d)
 
 
 > I'm a twenty-years-old full stack developer 👨🏽‍💻. I got into the programming world almost five years ago and I have been learning and applying that new knowledge ever since. See my [16personalities profile here!](https://www.16personalities.com/profiles/3ede20010c15e)
