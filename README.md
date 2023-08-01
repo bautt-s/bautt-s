@@ -37,15 +37,9 @@ The list of my skills include:
   <img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white' alt='Git' />
 </p>
 
-##  Soft skills 😄
-
-I would describe myself as a very extroverted person, never afraid of speaking up when something goes wrong, and with high communicative skills, willing to step up to any challenge that may arise.
-
-I am really great at explaining complex matters in the simplest way so even people who might not be remotely close to my area of expertise are able to understand what I am talking about (e.g., parents, friends, coaches). You could say I adapt quickly to my environment.
-
 ##  Reach me! ✍🏽
 
-📫 Feel free to reach out to me @ 2f.sanchezbautista@gmail.com for any questions or opportunities I am always open for a chat or job opportunities.
+📫 Feel free to reach out to me @ 2f.sanchezbautista@gmail.com for any questions or opportunities. I am always open for a chat or job opportunities.
 
 ---
 🎯 Learn more about me on [LinkedIn](https://www.linkedin.com/in/baut-s/)
